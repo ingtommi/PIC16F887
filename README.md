@@ -18,7 +18,7 @@ Si realizzi un firmware che conti quante volte un pulsante viene premuto, ed ogn
 # Diagramma di flusso
 
 <p align="center">
-<img src="Diagramma.png" width="100%" height="100%">
+<img src="diagramma.png" width="100%" height="100%">
 
 La figura mostra il diagramma di flusso che è servito da linea guida per la scrittura del codice. L'idea prevede l'utilizzo degli Interrupt affinchè il micro possa andare in modalità sleep quando possibile e le possibili sorgenti sono:
 
